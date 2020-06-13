@@ -20,4 +20,4 @@ def all_phrases
   puts toadstool
   puts link
 end
-all_
+all_phrases (mario, toadstool, l
