@@ -10,9 +10,13 @@ def toadstool
   puts $status
 end
 
+def link 
+  statement = "It's Dangerous To Go ALone! Take This."
+  puts statement
+end
 
 def all_phrases 
 puts mario
 puts toadstool
-puts "It's Dangerous To Go ALone! Take This."
+puts link
 end
