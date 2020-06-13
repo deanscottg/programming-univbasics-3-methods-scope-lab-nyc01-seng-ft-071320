@@ -11,8 +11,7 @@ def toadstool
 end
 
 def link 
-  
-  puts $status
+  puts $statement
   
 end
 
