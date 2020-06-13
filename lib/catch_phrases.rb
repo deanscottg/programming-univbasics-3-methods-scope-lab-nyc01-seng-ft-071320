@@ -13,10 +13,10 @@ end
 def link 
   statement = "It's Dangerous To Go ALone! Take This."
   puts statement
-  end
+end
 
 def all_phrases 
   puts mario
   puts toadstool
-  puts link
+  puts statement
 end
