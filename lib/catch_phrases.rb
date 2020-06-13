@@ -11,7 +11,8 @@ def toadstool
 end
 
 def link 
-  puts $statement
+  statement = "It's Dangerous To Go ALone! Take This."
+  puts statement
   
 end
 
